@@ -1,0 +1,22 @@
+<I.D.010_Basisdaten>
+    <BV.010_Positions_Nr_in_der_Rechnung>$position_id</BV.010_Positions_Nr_in_der_Rechnung>
+    <BV.020_Artikel_Nr_des_Lieferanten>$autoparse_01</BV.020_Artikel_Nr_des_Lieferanten>
+    <BV.070_Artikel_Beschreibung>$autoparse_02</BV.070_Artikel_Beschreibung>
+    <BV.140_Abschlussdatum_der_Lieferung_Ausfuehrung>$due_date</BV.140_Abschlussdatum_der_Lieferung_Ausfuehrung>
+</I.D.010_Basisdaten>
+<I.D.020_Preise_und_Mengen>
+    <BV.010_Verrechnete_Menge>$autoparse_03</BV.010_Verrechnete_Menge>
+    <BV.020_Mengeneinheit_der_verrechneten_Menge>BLL</BV.020_Mengeneinheit_der_verrechneten_Menge>
+    <BV.030_Verrechneter_Einzelpreis_des_Artikels>$autoparse_04</BV.030_Verrechneter_Einzelpreis_des_Artikels>
+    <BV.040_Waehrung_des_Einzelpreises>CHF</BV.040_Waehrung_des_Einzelpreises>
+    <BV.070_Bestaetigter_Gesamtpreis_der_Position_netto>$autoparse_05</BV.070_Bestaetigter_Gesamtpreis_der_Position_netto>
+    <BV.080_Bestaetigter_Gesamtpreis_der_Position_brutto>$autoparse_05</BV.080_Bestaetigter_Gesamtpreis_der_Position_brutto>
+    <BV.090_Waehrung_des_Gesamtpreises>CHF</BV.090_Waehrung_des_Gesamtpreises>
+</I.D.020_Preise_und_Mengen>
+<I.D.030_Steuern>
+    <BV.010_Funktion_der_Steuer>Steuer</BV.010_Funktion_der_Steuer>
+    <BV.020_Steuersatz_Kategorie>Standard Satz</BV.020_Steuersatz_Kategorie>
+    <BV.030_Steuersatz>$autoparse_06</BV.030_Steuersatz>
+    <BV.040_Zu_versteuernder_Betrag>$autoparse_05</BV.040_Zu_versteuernder_Betrag>
+    <BV.050_Steuerbetrag>0.00</BV.050_Steuerbetrag>
+</I.D.030_Steuern>

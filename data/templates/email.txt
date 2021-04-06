@@ -1,0 +1,9 @@
+Sehr geehrter $receiver_name
+
+Am $date um $time wurde die erfolgreiche Bearbeitung der Rechnung $invoice_number
+vom Zahlungssysyem '$server' gemeldet.
+
+Mit Freundlichen Gruessen
+
+$sender_name
+Firma_X

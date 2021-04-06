@@ -1,0 +1,21 @@
+{
+    "patterns":{
+        "receipt": "quittungsfile\\d{8}_\\d{6}\\.txt",
+        "invoice": "rechnung\\d+\\.data"
+    },
+    "formats": {
+        "date_email": "%d.%m.%Y",
+        "time_email": "%H:%M:%S",
+        "date_file": "%Y%m%d",
+        "time_file": "%H%M%S",
+        "date_invoice": "%d.%m.%Y"
+    },
+    "cache_folder": "./data/cache",
+    "email_template": "./data/templates/email.txt",
+    "email_sender": "payment@mail.ch",
+    "email_sender_name": "Payment System",
+    "template_invoice_xml": "./data/templates/invoice.xml",
+    "template_invoice_txt": "./data/templates/invoice.txt",
+    "template_invoice_positions_xml": "./data/templates/invoice_position.xml",
+    "template_invoice_positions_txt": "./data/templates/invoice_position.txt"
+}

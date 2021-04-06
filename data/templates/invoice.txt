@@ -1,0 +1,62 @@
+
+
+$autoparse_12
+$autoparse_13
+$autoparse_14
+$autoparse_15
+$autoparse_16
+
+
+
+
+$autoparse_02, den $autoparse_03                    $autoparse_22
+                                                    $autoparse_23
+                                                    $autoparse_24
+												  
+Kundennummer:      $autoparse_11
+Auftragsnummer:    $autoparse_01
+	 
+Rechnung Nr       $autoparse_00
+-----------------------
+$positions
+                                                              -----------       
+                                                Total CHF         1350.00
+
+                                                MWST  CHF            0.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zahlungsziel ohne Abzug 30 Tage ($deadline)
+
+Einzahlungsschein
+
+
+
+
+
+
+
+
+
+
+
+    1125 . 00                    1125 . 00     $autoparse_22
+                                               $autoparse_23
+0 00000 00000 00000                            $autoparse_24
+
+$autoparse_22
+$autoparse_23
+$autoparse_24
